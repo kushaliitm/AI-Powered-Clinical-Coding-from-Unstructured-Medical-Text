@@ -1,4 +1,4 @@
-# Multi-Agent Medical System 🏥
+# AI-Powered Multi-Agent ICD-10 Clinical Coding from Unstructured Medical Text 🏥
 
 A sophisticated multi-agent healthcare AI system that leverages LangGraph for intelligent medical analysis and routing. The system intelligently processes clinical inputs including clinical notes, medical transcripts, and medical images, routing them to specialized agents for analysis.
 
